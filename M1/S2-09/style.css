@@ -1,0 +1,25 @@
+h1 {
+    text-align: center
+}
+
+span {
+   color: blue;
+
+}
+a {
+    color: blue;
+}
+
+.boxblue{
+    background-color: rgb(53 53 201);
+    font-size: large;
+    color: aliceblue;
+    line-height: 30pt;
+    
+}
+
+#box-black {
+
+
+}
+
